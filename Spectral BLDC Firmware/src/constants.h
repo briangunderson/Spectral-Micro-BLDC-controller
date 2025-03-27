@@ -57,7 +57,7 @@
 
 #define CLOCK_PRESCALE 16
 
-#define SERIAL_SPEED 256000 // 256000 works, Tested with 1Mbit and works
+#define SERIAL_SPEED 250000 // 256000 works, Tested with 1Mbit and works
 
 #define SENSE_RESISTOR 0.025f
 

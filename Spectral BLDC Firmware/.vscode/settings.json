@@ -25,5 +25,8 @@
         "main_26_11": "cpp",
         "cstddef": "cpp",
         "*.tcc": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "Serialx"
+    ]
 }
